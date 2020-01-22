@@ -1,3 +1,8 @@
+Blog Post ==> https://medium.com/@kapur_naveen/stack-overflow-data-2017-survey-analysis-da16ee3f647e
+
+Git Repo ==> https://github.com/nakapoor/Stack-Overflow-Survey-2017
+
+
 ## Datascience-Blogpost : 
 
 This repo consists of a notebook containing code for the project 4 of Udacity Data Science course.
